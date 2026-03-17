@@ -12,6 +12,7 @@ cd briaton-js
 
 2. Запустить локальный сервер:
 Если установлен VS Code, нажмите правой кнопкой на index.html → Open with Live Server
+
 или
 npx serve
 
